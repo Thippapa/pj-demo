@@ -44,4 +44,3 @@ Live Demo: https://thippapa.github.io/lead-weight-dashboard/
 ## Author
 
 Thippapa Nakwijit  
-Aspiring Data Engineer
